@@ -1,0 +1,6 @@
+- Extraction : from database
+- Transformation : Calculation MTD and YTD dataset + ensure correct formating
+- Output : pdf MTD and YTD as PDF with :
+  - First Page : General Overview
+  - Second Page : Overview Simplified per Dealer
+  - Then Dealer details
